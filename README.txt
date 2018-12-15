@@ -1,2 +1,3 @@
-Project Description!
-https://drive.google.com/file/d/0BzGO97W0OIzbcGF0c0tIUVgxajVyWmFXNWxfZjU5bnlqYWR3/view?usp=sharing
+This code is a simple file analyser using C++.
+The coded uses linked-lists data structure.  
+The code is able to do the following:
