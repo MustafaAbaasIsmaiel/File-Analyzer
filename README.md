@@ -1,7 +1,7 @@
 ## Project Description
 
-This code is a simple file analyser using C++.
-The coded uses linked-lists data structure.  
+This code is a simple file analyzer using C++.
+The code uses linked-lists data structure.  
 The code is able to do the following tasks efficitevly:
 
 * Read the input file word by word. Separators such as **, ; : & [] ()** are discarded
